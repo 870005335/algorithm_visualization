@@ -1,6 +1,8 @@
 package com.liubin;
 
 import java.awt.*;
+import java.awt.event.KeyAdapter;
+import java.awt.event.KeyEvent;
 
 /**
  * @ClassName AlgoVisualizer
@@ -14,6 +16,8 @@ public class AlgoVisualizer {
     private Circle[] circles;
 
     private AlgoFrame algoFrame;
+
+    private boolean isAnimated = true;
 
     public AlgoVisualizer(int sceneWidth, int sceneHeight, int N) {
         // 初始化数据
@@ -29,6 +33,7 @@ public class AlgoVisualizer {
         // 初始化视图
         EventQueue.invokeLater(() -> {
             algoFrame = new AlgoFrame("Welcome", sceneWidth, sceneHeight);
+            algoFrame.addKeyListener(new AlgoKeyListener());
             new Thread(this::run).start();
 
         });
@@ -40,9 +45,28 @@ public class AlgoVisualizer {
             algoFrame.render(circles);
             AlgoVisHelper.pause(20);
             // 更新数据
-            for (Circle circle : circles) {
-                circle.move(0,0, algoFrame.getCanvasWidth(), algoFrame.getCanvasHeight());
+            if (isAnimated) {
+                for (Circle circle : circles) {
+                    circle.move(0, 0, algoFrame.getCanvasWidth(), algoFrame.getCanvasHeight());
+                }
             }
         }
+    }
+
+    private class AlgoKeyListener extends KeyAdapter {
+
+        @Override
+        public void keyReleased(KeyEvent e) {
+            if (e.getKeyChar() == ' ') {
+                isAnimated = !isAnimated;
+            }
+        }
+    }
+
+    public static void main(String[] args) {
+        int sceneWidth = 800;
+        int sceneHeight = 800;
+        int N = 10;
+        AlgoVisualizer visualizer = new AlgoVisualizer(sceneWidth, sceneHeight, N);
     }
 }

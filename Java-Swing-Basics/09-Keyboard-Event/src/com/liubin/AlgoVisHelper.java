@@ -5,7 +5,7 @@ import java.awt.geom.Ellipse2D;
 
 /**
  * @ClassName AlgoVisHelper
- * @Description: TODO
+ * @Description:
  * @Author liubin
  * @Date 2020/5/9 0009
  * @Version V1.0
@@ -63,5 +63,13 @@ public class AlgoVisHelper {
      **/
     public static void setColor(Graphics2D g2d, Color color) {
         g2d.setColor(color);
+    }
+
+    public static void pause(int time) {
+        try {
+            Thread.sleep(time);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 }
