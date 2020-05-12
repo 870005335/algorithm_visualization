@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc206290-70ca-4547-8319-65c58318e223" name="Default Changelist" comment="" />
+    <list default="true" id="bc206290-70ca-4547-8319-65c58318e223" name="Default Changelist" comment="算法可视化中的MVC">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/02-Your-First-JFrame/02-Your-First-JFrame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/03-Rendering-Basics/03-Rendering-Basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/04-Using-Graphics2D/04-Using-Graphics2D.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/05-Drawing-Refactors/05-Drawing-Refactors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/06-Advanced-Rendering/06-Advanced-Rendering.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/07-Animation-Basics/07-Animation-Basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/08-MVC-in-Algorithm-Visualization/08-MVC-in-Algorithm-Visualization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/09-Keyboard-Event/09-Keyboard-Event.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/10-Mouse-Event/10-Mouse-Event.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/11-Templates/11-Templates.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/11-Templates/src/com/liubin/AlgoFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/11-Templates/src/com/liubin/AlgoVisHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/11-Templates/src/com/liubin/AlgoVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +31,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -24,6 +44,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1bec7OGFZSvGJwApYJSarPQm4lV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,18 +53,89 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Java-Swing-Basics/10-Mouse-Event/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.liubin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\IDEA\workplace\algorithm_visualization\Java-Swing-Basics\10-Mouse-Event\src" />
+      <recent name="D:\develop\IDEA\workplace\algorithm_visualization\Java-Swing-Basics\09-Keyboard-Event\src\com\liubin" />
+      <recent name="D:\develop\IDEA\workplace\algorithm_visualization\Java-Swing-Basics\05-Drawing-Refactors\src\com\liubin" />
+      <recent name="D:\develop\IDEA\workplace\algorithm_visualization\Java-Swing-Basics\07-Animation-Basics\src\com\liubin" />
+      <recent name="D:\develop\IDEA\workplace\algorithm_visualization\Java-Swing-Basics\06-Advanced-Rendering\src\com\liubin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AlgoVisualizer">
+    <configuration name="AlgoVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="liubin.AlgoVisualizer" />
+      <module name="10-Mouse-Event" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="liubin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liubin.Main" />
+      <module name="08-MVC-in-Algorithm-Visualization" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liubin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liubin.Main" />
+      <module name="09-Keyboard-Event" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liubin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liubin.Main" />
+      <module name="06-Advanced-Rendering" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liubin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.liubin.Main" />
-      <module name="01-About-Java-GUI" />
+      <module name="07-Animation-Basics" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.liubin.*" />
@@ -56,7 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlgoVisualizer" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -83,37 +179,158 @@
       <option name="presentableId" value="Default" />
       <updated>1588995831480</updated>
       <workItem from="1588995835571" duration="265000" />
+      <workItem from="1588996370196" duration="523000" />
+      <workItem from="1589002941362" duration="11759000" />
+      <workItem from="1589160028794" duration="641000" />
+      <workItem from="1589160687350" duration="228000" />
+      <workItem from="1589160929195" duration="10193000" />
     </task>
+    <task id="LOCAL-00001" summary="创建JFrame子类">
+      <created>1589005248604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589005248604</updated>
+    </task>
+    <task id="LOCAL-00002" summary="设置画布和图形绘制基础">
+      <created>1589008801353</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589008801353</updated>
+    </task>
+    <task id="LOCAL-00003" summary="使用Graphics2D">
+      <created>1589009919632</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589009919632</updated>
+    </task>
+    <task id="LOCAL-00004" summary="整理绘制工具类">
+      <created>1589012486913</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589012486913</updated>
+    </task>
+    <task id="LOCAL-00005" summary="高级绘制特性：抗锯齿和双缓存">
+      <created>1589015583038</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589015583038</updated>
+    </task>
+    <task id="LOCAL-00006" summary="高级绘制特性：抗锯齿和双缓存">
+      <created>1589015630369</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589015630369</updated>
+    </task>
+    <task id="LOCAL-00007" summary="动画基础">
+      <created>1589021962657</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589021962657</updated>
+    </task>
+    <task id="LOCAL-00008" summary="算法可视化中的MVC">
+      <created>1589189023912</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589189023912</updated>
+    </task>
+    <task id="LOCAL-00009" summary="键盘事件">
+      <created>1589190841772</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589190841772</updated>
+    </task>
+    <task id="LOCAL-00010" summary="鼠标事件">
+      <created>1589192590021</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1589192590021</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建JFrame子类" />
+    <MESSAGE value="设置画布和图形绘制基础" />
+    <MESSAGE value="使用Graphics2D" />
+    <MESSAGE value="整理绘制工具类" />
+    <MESSAGE value="高级绘制特性：抗锯齿和双缓存" />
+    <MESSAGE value="动画基础" />
+    <MESSAGE value="算法可视化中的MVC" />
+    <MESSAGE value="键盘事件" />
+    <MESSAGE value="鼠标事件" />
+    <option name="LAST_COMMIT_MESSAGE" value="鼠标事件" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="561" y="61" key="#com.intellij.ide.util.MemberChooser" timestamp="1589194316749">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="561" y="61" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1589194316749" />
+    <state x="390" y="269" width="819" height="334" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589190768323">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="390" y="269" width="819" height="334" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1589190768323" />
+    <state x="85" y="0" key="CommitChangelistDialog2" timestamp="1589195790899">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="85" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1589195790899" />
     <state x="530" y="130" key="FileChooserDialogImpl" timestamp="1588995918860">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="130" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1588995918860" />
-    <state width="1551" height="211" key="GridCell.Tab.0.bottom" timestamp="1588996405712">
+    <state width="1551" height="316" key="GridCell.Tab.0.bottom" timestamp="1589193734432">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1551" height="211" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1588996405712" />
-    <state width="1551" height="211" key="GridCell.Tab.0.center" timestamp="1588996405711">
+    <state width="1551" height="316" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589193734432" />
+    <state width="1551" height="316" key="GridCell.Tab.0.center" timestamp="1589193734432">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1551" height="211" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1588996405711" />
-    <state width="1551" height="211" key="GridCell.Tab.0.left" timestamp="1588996405710">
+    <state width="1551" height="316" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589193734432" />
+    <state width="1551" height="316" key="GridCell.Tab.0.left" timestamp="1589193734432">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1551" height="211" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1588996405710" />
-    <state width="1551" height="211" key="GridCell.Tab.0.right" timestamp="1588996405711">
+    <state width="1551" height="316" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589193734432" />
+    <state width="1551" height="316" key="GridCell.Tab.0.right" timestamp="1589193734432">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1551" height="211" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1588996405711" />
-    <state x="0" y="0" key="new project wizard" timestamp="1588995910978">
+    <state width="1551" height="316" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589193734432" />
+    <state x="292" y="100" key="Vcs.Push.Dialog.v2" timestamp="1589021966786">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="0" y="0" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1588995910978" />
+    <state x="292" y="100" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1589021966786" />
+    <state x="414" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1589002999943">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="414" y="215" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1589002999943" />
+    <state x="0" y="0" key="new project wizard" timestamp="1589192647153">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1589192647153" />
     <state x="379" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1588996078742">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

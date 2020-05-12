@@ -3,6 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/01-About-Java-GUI/01-About-Java-GUI.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/01-About-Java-GUI/01-About-Java-GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/02-Your-First-JFrame/02-Your-First-JFrame.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/02-Your-First-JFrame/02-Your-First-JFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/03-Rendering-Basics/03-Rendering-Basics.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/03-Rendering-Basics/03-Rendering-Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/04-Using-Graphics2D/04-Using-Graphics2D.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/04-Using-Graphics2D/04-Using-Graphics2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/05-Advanced-Rendering/05-Drawing-Refactor.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/05-Advanced-Rendering/05-Drawing-Refactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/05-Drawing-Refactors/05-Drawing-Refactors.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/05-Drawing-Refactors/05-Drawing-Refactors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/06-Advanced-Rendering/06-Advanced-Rendering.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/06-Advanced-Rendering/06-Advanced-Rendering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/07-Animation-Basics/07-Animation-Basics.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/07-Animation-Basics/07-Animation-Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/08-MVC-in-Algorithm-Visualization/08-MVC-in-Algorithm-Visualization.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/08-MVC-in-Algorithm-Visualization/08-MVC-in-Algorithm-Visualization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/09-Keyboard-Event/09-Keyboard-Event.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/09-Keyboard-Event/09-Keyboard-Event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/10-Mouse-Event/10-Mouse-Event.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/10-Mouse-Event/10-Mouse-Event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/11-Templates/11-Templates.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/11-Templates/11-Templates.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/Java-Swing-Basics.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/Java-Swing-Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm_visualization.iml" filepath="$PROJECT_DIR$/algorithm_visualization.iml" />
     </modules>
