@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc206290-70ca-4547-8319-65c58318e223" name="Default Changelist" comment="算法可视化中的MVC">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/02-Your-First-JFrame/02-Your-First-JFrame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/03-Rendering-Basics/03-Rendering-Basics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/04-Using-Graphics2D/04-Using-Graphics2D.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/05-Drawing-Refactors/05-Drawing-Refactors.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/06-Advanced-Rendering/06-Advanced-Rendering.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/07-Animation-Basics/07-Animation-Basics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/08-MVC-in-Algorithm-Visualization/08-MVC-in-Algorithm-Visualization.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/09-Keyboard-Event/09-Keyboard-Event.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/10-Mouse-Event/10-Mouse-Event.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/11-Templates/11-Templates.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/11-Templates/src/com/liubin/AlgoFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/11-Templates/src/com/liubin/AlgoVisHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Swing-Basics/11-Templates/src/com/liubin/AlgoVisualizer.java" afterDir="false" />
+    <list default="true" id="bc206290-70ca-4547-8319-65c58318e223" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Probability-Simulation/01-A-Money-Experiment-Basics/src/liubin/AlgoFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Probability-Simulation/01-A-Money-Experiment-Basics/src/liubin/AlgoVisHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Probability-Simulation/01-A-Money-Experiment-Basics/src/liubin/AlgoVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Probability-Simulation/Probability-Simulation.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -56,7 +46,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Java-Swing-Basics/10-Mouse-Event/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Probability-Simulation/01-A-Money-Experiment-Basics/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,14 +63,27 @@
       <recent name="com.liubin" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\IDEA\workplace\algorithm_visualization\Probability-Simulation\01-A-Money-Experiment-Basics\src" />
       <recent name="D:\develop\IDEA\workplace\algorithm_visualization\Java-Swing-Basics\10-Mouse-Event\src" />
       <recent name="D:\develop\IDEA\workplace\algorithm_visualization\Java-Swing-Basics\09-Keyboard-Event\src\com\liubin" />
       <recent name="D:\develop\IDEA\workplace\algorithm_visualization\Java-Swing-Basics\05-Drawing-Refactors\src\com\liubin" />
       <recent name="D:\develop\IDEA\workplace\algorithm_visualization\Java-Swing-Basics\07-Animation-Basics\src\com\liubin" />
-      <recent name="D:\develop\IDEA\workplace\algorithm_visualization\Java-Swing-Basics\06-Advanced-Rendering\src\com\liubin" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AlgoVisualizer">
+  <component name="RunManager" selected="Application.AlgoVisualizer (1)">
+    <configuration name="AlgoVisualizer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="liubin.AlgoVisualizer" />
+      <module name="01-A-Money-Experiment-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="liubin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AlgoVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="liubin.AlgoVisualizer" />
       <module name="10-Mouse-Event" />
@@ -120,19 +123,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liubin.Main" />
-      <module name="06-Advanced-Rendering" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liubin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.liubin.Main" />
       <module name="07-Animation-Basics" />
@@ -148,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlgoVisualizer (1)" />
         <item itemvalue="Application.AlgoVisualizer" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +174,7 @@
       <workItem from="1589160028794" duration="641000" />
       <workItem from="1589160687350" duration="228000" />
       <workItem from="1589160929195" duration="10193000" />
+      <workItem from="1589246167139" duration="4895000" />
     </task>
     <task id="LOCAL-00001" summary="创建JFrame子类">
       <created>1589005248604</created>
@@ -255,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589192590021</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="文件提交">
+      <created>1589246282141</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1589246282141</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +282,8 @@
     <MESSAGE value="算法可视化中的MVC" />
     <MESSAGE value="键盘事件" />
     <MESSAGE value="鼠标事件" />
-    <option name="LAST_COMMIT_MESSAGE" value="鼠标事件" />
+    <MESSAGE value="文件提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="文件提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="561" y="61" key="#com.intellij.ide.util.MemberChooser" timestamp="1589194316749">
@@ -295,42 +294,42 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="390" y="269" width="819" height="334" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1589190768323" />
-    <state x="85" y="0" key="CommitChangelistDialog2" timestamp="1589195790899">
+    <state x="85" y="0" key="CommitChangelistDialog2" timestamp="1589246280896">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="85" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1589195790899" />
+    <state x="85" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1589246280896" />
     <state x="530" y="130" key="FileChooserDialogImpl" timestamp="1588995918860">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="130" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1588995918860" />
-    <state width="1551" height="316" key="GridCell.Tab.0.bottom" timestamp="1589193734432">
+    <state width="1551" height="316" key="GridCell.Tab.0.bottom" timestamp="1589254070734">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1551" height="316" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589193734432" />
-    <state width="1551" height="316" key="GridCell.Tab.0.center" timestamp="1589193734432">
+    <state width="1551" height="316" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589254070734" />
+    <state width="1551" height="316" key="GridCell.Tab.0.center" timestamp="1589254070734">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1551" height="316" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589193734432" />
-    <state width="1551" height="316" key="GridCell.Tab.0.left" timestamp="1589193734432">
+    <state width="1551" height="316" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589254070734" />
+    <state width="1551" height="316" key="GridCell.Tab.0.left" timestamp="1589254070734">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1551" height="316" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589193734432" />
-    <state width="1551" height="316" key="GridCell.Tab.0.right" timestamp="1589193734432">
+    <state width="1551" height="316" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589254070734" />
+    <state width="1551" height="316" key="GridCell.Tab.0.right" timestamp="1589254070734">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1551" height="316" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589193734432" />
-    <state x="292" y="100" key="Vcs.Push.Dialog.v2" timestamp="1589021966786">
+    <state width="1551" height="316" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589254070734" />
+    <state x="292" y="100" key="Vcs.Push.Dialog.v2" timestamp="1589246286929">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="292" y="100" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1589021966786" />
+    <state x="292" y="100" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1589246286929" />
     <state x="414" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1589002999943">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="414" y="215" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1589002999943" />
-    <state x="0" y="0" key="new project wizard" timestamp="1589192647153">
+    <state x="0" y="0" key="new project wizard" timestamp="1589249820641">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="0" y="0" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1589192647153" />
+    <state x="0" y="0" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1589249820641" />
     <state x="379" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1588996078742">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

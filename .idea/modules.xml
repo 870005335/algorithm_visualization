@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Probability-Simulation/01-A-Money-Experiment-Basics/01-A-Money-Experiment-Basics.iml" filepath="$PROJECT_DIR$/Probability-Simulation/01-A-Money-Experiment-Basics/01-A-Money-Experiment-Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/01-About-Java-GUI/01-About-Java-GUI.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/01-About-Java-GUI/01-About-Java-GUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/02-Your-First-JFrame/02-Your-First-JFrame.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/02-Your-First-JFrame/02-Your-First-JFrame.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/03-Rendering-Basics/03-Rendering-Basics.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/03-Rendering-Basics/03-Rendering-Basics.iml" />
@@ -15,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/10-Mouse-Event/10-Mouse-Event.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/10-Mouse-Event/10-Mouse-Event.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/11-Templates/11-Templates.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/11-Templates/11-Templates.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Swing-Basics/Java-Swing-Basics.iml" filepath="$PROJECT_DIR$/Java-Swing-Basics/Java-Swing-Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probability-Simulation/Probability-Simulation.iml" filepath="$PROJECT_DIR$/Probability-Simulation/Probability-Simulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm_visualization.iml" filepath="$PROJECT_DIR$/algorithm_visualization.iml" />
     </modules>
   </component>
