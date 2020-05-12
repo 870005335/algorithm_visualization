@@ -1,4 +1,4 @@
-package liubin;
+package com.liubin;
 
 import java.awt.*;
 import java.util.Arrays;

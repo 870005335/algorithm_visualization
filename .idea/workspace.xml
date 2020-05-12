@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc206290-70ca-4547-8319-65c58318e223" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Probability-Simulation/02-More-about-the-Money-Experiment/02-More-about-the-Money-Experiment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Probability-Simulation/02-More-about-the-Money-Experiment/src/liubin/AlgoFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Probability-Simulation/02-More-about-the-Money-Experiment/src/liubin/AlgoVisHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Probability-Simulation/02-More-about-the-Money-Experiment/src/liubin/AlgoVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Probability-Simulation/03-Monte-Carlo-Simulation/03-Monte-Carlo-Simulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Probability-Simulation/03-Monte-Carlo-Simulation/src/com/liubin/AlgoFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Probability-Simulation/03-Monte-Carlo-Simulation/src/com/liubin/AlgoVisHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Probability-Simulation/03-Monte-Carlo-Simulation/src/com/liubin/AlgoVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Probability-Simulation/03-Monte-Carlo-Simulation/src/com/liubin/Circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Swing-Basics/10-Mouse-Event/src/liubin/AlgoFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Swing-Basics/10-Mouse-Event/src/com/liubin/AlgoFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Swing-Basics/10-Mouse-Event/src/liubin/AlgoVisHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Swing-Basics/10-Mouse-Event/src/com/liubin/AlgoVisHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Swing-Basics/10-Mouse-Event/src/liubin/AlgoVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Swing-Basics/10-Mouse-Event/src/com/liubin/AlgoVisualizer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Swing-Basics/10-Mouse-Event/src/liubin/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Swing-Basics/10-Mouse-Event/src/com/liubin/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Probability-Simulation/01-A-Money-Experiment-Basics/src/liubin/AlgoFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Probability-Simulation/01-A-Money-Experiment-Basics/src/com/liubin/AlgoFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Probability-Simulation/01-A-Money-Experiment-Basics/src/liubin/AlgoVisHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Probability-Simulation/01-A-Money-Experiment-Basics/src/com/liubin/AlgoVisHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Probability-Simulation/01-A-Money-Experiment-Basics/src/liubin/AlgoVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Probability-Simulation/01-A-Money-Experiment-Basics/src/com/liubin/AlgoVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Probability-Simulation/02-More-about-the-Money-Experiment/src/liubin/AlgoFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Probability-Simulation/02-More-about-the-Money-Experiment/src/com/liubin/AlgoFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Probability-Simulation/02-More-about-the-Money-Experiment/src/liubin/AlgoVisHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Probability-Simulation/02-More-about-the-Money-Experiment/src/com/liubin/AlgoVisHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Probability-Simulation/02-More-about-the-Money-Experiment/src/liubin/AlgoVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Probability-Simulation/02-More-about-the-Money-Experiment/src/com/liubin/AlgoVisualizer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +50,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Probability-Simulation/02-More-about-the-Money-Experiment/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Probability-Simulation/03-Monte-Carlo-Simulation/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -70,14 +67,14 @@
       <recent name="com.liubin" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\IDEA\workplace\algorithm_visualization\Probability-Simulation\03-Monte-Carlo-Simulation\src" />
       <recent name="D:\develop\IDEA\workplace\algorithm_visualization\Probability-Simulation\02-More-about-the-Money-Experiment\src" />
       <recent name="D:\develop\IDEA\workplace\algorithm_visualization\Probability-Simulation\01-A-Money-Experiment-Basics\src" />
       <recent name="D:\develop\IDEA\workplace\algorithm_visualization\Java-Swing-Basics\10-Mouse-Event\src" />
       <recent name="D:\develop\IDEA\workplace\algorithm_visualization\Java-Swing-Basics\09-Keyboard-Event\src\com\liubin" />
-      <recent name="D:\develop\IDEA\workplace\algorithm_visualization\Java-Swing-Basics\05-Drawing-Refactors\src\com\liubin" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AlgoVisualizer (2)">
+  <component name="RunManager" selected="Application.AlgoVisualizer (4)">
     <configuration name="AlgoVisualizer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="liubin.AlgoVisualizer" />
       <module name="01-A-Money-Experiment-Basics" />
@@ -104,6 +101,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AlgoVisualizer (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liubin.AlgoVisualizer" />
+      <module name="02-More-about-the-Money-Experiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liubin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgoVisualizer (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liubin.AlgoVisualizer" />
+      <module name="03-Monte-Carlo-Simulation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liubin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AlgoVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="liubin.AlgoVisualizer" />
       <module name="10-Mouse-Event" />
@@ -117,39 +140,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liubin.Main" />
-      <module name="08-MVC-in-Algorithm-Visualization" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liubin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liubin.Main" />
-      <module name="09-Keyboard-Event" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liubin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlgoVisualizer (4)" />
+        <item itemvalue="Application.AlgoVisualizer (3)" />
         <item itemvalue="Application.AlgoVisualizer (2)" />
         <item itemvalue="Application.AlgoVisualizer (1)" />
         <item itemvalue="Application.AlgoVisualizer" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +178,7 @@
       <workItem from="1589160028794" duration="641000" />
       <workItem from="1589160687350" duration="228000" />
       <workItem from="1589160929195" duration="10193000" />
-      <workItem from="1589246167139" duration="6613000" />
+      <workItem from="1589246167139" duration="11904000" />
     </task>
     <task id="LOCAL-00001" summary="创建JFrame子类">
       <created>1589005248604</created>
@@ -267,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589254119466</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="深入分钱问题">
+      <created>1589255927800</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1589255927800</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,53 +302,58 @@
     <MESSAGE value="鼠标事件" />
     <MESSAGE value="文件提交" />
     <MESSAGE value="分钱问题基础" />
-    <option name="LAST_COMMIT_MESSAGE" value="分钱问题基础" />
+    <MESSAGE value="深入分钱问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="深入分钱问题" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="561" y="61" key="#com.intellij.ide.util.MemberChooser" timestamp="1589194316749">
+    <state x="561" y="61" key="#com.intellij.ide.util.MemberChooser" timestamp="1589269158844">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="561" y="61" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1589194316749" />
+    <state x="561" y="61" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1589269158844" />
     <state x="390" y="269" width="819" height="334" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589190768323">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="390" y="269" width="819" height="334" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1589190768323" />
-    <state x="85" y="0" key="CommitChangelistDialog2" timestamp="1589254118525">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1589255926510">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="85" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1589254118525" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1589255926510" />
     <state x="530" y="130" key="FileChooserDialogImpl" timestamp="1588995918860">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="130" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1588995918860" />
-    <state width="1551" height="316" key="GridCell.Tab.0.bottom" timestamp="1589255876083">
+    <state width="1551" height="316" key="GridCell.Tab.0.bottom" timestamp="1589273495294">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1551" height="316" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589255876083" />
-    <state width="1551" height="316" key="GridCell.Tab.0.center" timestamp="1589255876082">
+    <state width="1551" height="316" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589273495294" />
+    <state width="1551" height="316" key="GridCell.Tab.0.center" timestamp="1589273495294">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1551" height="316" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589255876082" />
-    <state width="1551" height="316" key="GridCell.Tab.0.left" timestamp="1589255876082">
+    <state width="1551" height="316" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589273495294" />
+    <state width="1551" height="316" key="GridCell.Tab.0.left" timestamp="1589273495294">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1551" height="316" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589255876082" />
-    <state width="1551" height="316" key="GridCell.Tab.0.right" timestamp="1589255876082">
+    <state width="1551" height="316" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589273495294" />
+    <state width="1551" height="316" key="GridCell.Tab.0.right" timestamp="1589273495294">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1551" height="316" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589255876082" />
-    <state x="292" y="100" key="Vcs.Push.Dialog.v2" timestamp="1589246286929">
+    <state width="1551" height="316" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589273495294" />
+    <state x="292" y="100" key="Vcs.Push.Dialog.v2" timestamp="1589263528783">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="292" y="100" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1589246286929" />
+    <state x="292" y="100" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1589263528783" />
     <state x="414" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1589002999943">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="414" y="215" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1589002999943" />
-    <state x="0" y="0" key="new project wizard" timestamp="1589254175835">
+    <state width="380" height="438" key="documentation.popup.size" timestamp="1589273367993">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="0" y="0" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1589254175835" />
+    <state width="380" height="438" key="documentation.popup.size/0.0.1600.860@0.0.1600.860" timestamp="1589273367993" />
+    <state x="0" y="0" key="new project wizard" timestamp="1589268118697">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1589268118697" />
     <state x="379" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1588996078742">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
