@@ -1,8 +1,6 @@
 package liubin;
 
 import java.awt.*;
-import java.awt.event.KeyAdapter;
-import java.awt.event.MouseAdapter;
 import java.util.Arrays;
 
 
@@ -35,16 +33,22 @@ public class AlgoVisualizer {
 
     private void run() {
         while (true) {
+            // 进行排序 更清晰地展示分布情况
+            Arrays.sort(money);
             // 编写自己的动画逻辑
             frame.render(money);
-            int delay = 10;
+            int delay = 40;
             AlgoVisHelper.pause(delay);
             // 更新数据
-            for (int i = 0; i < money.length; i++) {
-                if (money[i] > 0) {
-                    int j = (int) (Math.random() * money.length);
-                    money[i] -= 1;
-                    money[j] += 1;
+            // 为了加快模拟过程 每K轮更新一次
+            for (int k = 0; k < 50; k++) {
+                for (int i = 0; i < money.length; i++) {
+                    // 允许出现负值的情况
+//                    if (money[i] > 0) {
+                        int j = (int) (Math.random() * money.length);
+                        money[i] -= 1;
+                        money[j] += 1;
+//                    }
                 }
             }
         }

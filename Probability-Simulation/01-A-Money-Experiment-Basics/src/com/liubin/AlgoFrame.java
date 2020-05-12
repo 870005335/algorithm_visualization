@@ -1,13 +1,13 @@
-package liubin;
+package com.liubin;
 
 import javax.swing.*;
 import java.awt.*;
 
 /**
  * @ClassName AlgoFrame
- * @Description: TODO
+ * @Description: 算法可视化视图层
  * @Author liubin
- * @Date 2020/5/9 0009
+ * @Date 2020/5/11 0011
  * @Version V1.0
  **/
 public class AlgoFrame extends JFrame {
@@ -16,6 +16,9 @@ public class AlgoFrame extends JFrame {
 
     private int canvasHeight;
 
+    /**
+     *  构造器
+     * */
     public AlgoFrame(String title, int canvasWidth, int canvasHeight) {
         super(title);
         this.canvasWidth = canvasWidth;
@@ -32,17 +35,6 @@ public class AlgoFrame extends JFrame {
         this.setVisible(true);
     }
 
-    public AlgoFrame(String title) {
-        this(title, 1024, 768);
-    }
-
-    private Circle[] circles;
-
-    public void render(Circle[] circles) {
-        this.circles = circles;
-        this.repaint();
-    }
-
     public int getCanvasWidth() {
         return canvasWidth;
     }
@@ -51,31 +43,34 @@ public class AlgoFrame extends JFrame {
         return canvasHeight;
     }
 
-    private class AlgoCanvas extends JPanel {
+    // 设置自己的数据
+    private int[] money;
+    public void render(int[] money) {
+        this.money = money;
+        repaint();
+    }
 
+    private class AlgoCanvas extends JPanel {
         public AlgoCanvas() {
+            // 双缓存
             super(true);
         }
 
-
         @Override
-        public void paintComponent(Graphics g) {
+        protected void paintComponent(Graphics g) {
             super.paintComponent(g);
-            // 将Graphic对象转换为Graphic2D对象
-            Graphics2D g2d = (Graphics2D) g;
+            // 转换为Graphics2D对象
+            Graphics2D graphics2D = (Graphics2D) g;
             // 开启抗锯齿
             RenderingHints hints = new RenderingHints(RenderingHints.KEY_ANTIALIASING,
                     RenderingHints.VALUE_ANTIALIAS_ON);
-            g2d.addRenderingHints(hints);
+            graphics2D.addRenderingHints(hints);
             // 具体绘制
-            AlgoVisHelper.setStrokeWidth(g2d, 1);
-            AlgoVisHelper.setColor(g2d, Color.RED);
-            for (Circle circle : circles) {
-                if (!circle.isFilled) {
-                    AlgoVisHelper.drawCircle(g2d, circle.x, circle.y, circle.getR());
-                } else {
-                    AlgoVisHelper.fillCircle(g2d, circle.x, circle.y, circle.getR());
-                }
+            AlgoVisHelper.setColor(graphics2D, AlgoVisHelper.Blue);
+            int w = canvasWidth / money.length;
+            for (int i = 0; i < money.length; i++) {
+                AlgoVisHelper.fillRectangle(graphics2D, i * w + 1, canvasHeight - money[i]
+                , w - 1, money[i]);
             }
         }
 
